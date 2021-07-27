@@ -32,8 +32,8 @@
 ### Basic UI
 <img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(43).png">
 
-#Recognize
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(43).png">
+###Recognize
+<img src="https://github.com/msaishravani/Attendance-Monitoring-System-Using-Image-Processing/blob/master/recognize.png">
 
 ### When it's fill a attendace
 <img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(42).png">
