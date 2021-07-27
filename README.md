@@ -36,16 +36,18 @@
 <img src="https://github.com/msaishravani/Attendance-Monitoring-System-Using-Image-Processing/blob/master/recognize.png">
 
 ### When it's fill a attendace
-<img src="">
-<img src="">
+<img src="https://github.com/msaishravani/Attendance-Monitoring-System-Using-Image-Processing/blob/master/manual.png">
+
+
+<img src="https://github.com/msaishravani/Attendance-Monitoring-System-Using-Image-Processing/blob/master/details.png">
+
 
 ### Manually attendance filling UI
-<img src="">
+<img src="https://github.com/msaishravani/Attendance-Monitoring-System-Using-Image-Processing/blob/master/manual.png">
+
+
 ### Report Generation After Recognition
-<img src="">
-
-
-
+<img src="https://github.com/msaishravani/Attendance-Monitoring-System-Using-Image-Processing/blob/master/report.jpg">
 
 
 ### Notes
