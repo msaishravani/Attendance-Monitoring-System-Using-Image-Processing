@@ -41,11 +41,6 @@
 
 <img src="https://github.com/msaishravani/Attendance-Monitoring-System-Using-Image-Processing/blob/master/details.png">
 
-
-### Manually attendance filling UI
-<img src="https://github.com/msaishravani/Attendance-Monitoring-System-Using-Image-Processing/blob/master/manual.png">
-
-
 ### Report Generation After Recognition
 <img src="https://github.com/msaishravani/Attendance-Monitoring-System-Using-Image-Processing/blob/master/report.jpg">
 
