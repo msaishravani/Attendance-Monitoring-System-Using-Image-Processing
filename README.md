@@ -1,14 +1,8 @@
-##  Attendance Management system using Face👦🏻👧 Recognition [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)](https://github.com/Spidy20/Attendace_management_system/blob/master/LICENSE)
+##  Attendance Management system using Face👦🏻👧 Recognition 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-## [Follow us on Instagram for Machine Learning Guidelines & Path](https://www.instagram.com/machine_learning_hub.ai/)
-## [Buy Python & ML projects for students at lower rate](https://www.instamojo.com/kushalbhavsar1820)
-
-
-### Sourcerer
-<a href="https://sourcerer.io/spidy20"><img src="https://avatars2.githubusercontent.com/u/42056100?v=4" height="50px" width="50px" alt=""/></a>
 
 ### Code Requirements
 - Opencv(`pip install opencv-python`)
@@ -48,13 +42,6 @@
 <img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(44).png">
 
 
-### How it works? See:)
-
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/AMS.gif">
-
-### Video demo
-
-[Youtube](https://www.youtube.com/watch?v=dXViSRRydRs)
 
 
 ### Notes
@@ -62,8 +49,3 @@
 - If you think it will recognise person just like humans,than leave it ,its not possible.
 - Noisy image can reduce your accuracy so quality of images matter.
 
-## Just follow☝️ me and Star⭐ my repository 
-
-## Read our Machine learning & Data science related blogs:- [Here](https://www.vruttitanna.com/post/why-kaggle-is-important-for-data-science)
-
-## Buy more projects at very low price:- [STORE](https://www.instamojo.com/kushalbhavsar1820)
